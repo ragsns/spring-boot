@@ -81,7 +81,7 @@
 		<hsqldb.version>2.3.2</hsqldb.version>
 		<httpasyncclient.version>4.0.2</httpasyncclient.version>
 		<httpclient.version>4.3.6</httpclient.version>
-		<jackson.version>2.5.1</jackson.version>
+		<jackson.version>2.10.0</jackson.version>
 		<janino.version>2.6.1</janino.version>
 		<javassist.version>3.18.1-GA</javassist.version> <!-- Same as Hibernate -->
 		<javax-cache.version>1.0.0</javax-cache.version>
@@ -90,7 +90,7 @@
 		<jaxen.version>1.1.6</jaxen.version>
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.6.2</jedis.version>
-		<jersey.version>2.14</jersey.version>
+		<jersey.version>2.26</jersey.version>
 		<jetty.version>9.2.9.v20150224</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jmustache.version>1.10</jmustache.version>
