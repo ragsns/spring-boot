@@ -46,7 +46,7 @@
 		<!-- Spring Boot -->
 		<spring-boot.version>1.3.0.BUILD-SNAPSHOT</spring-boot.version>
 		<!-- Third Party -->
-		<activemq.version>5.11.1</activemq.version>
+		<activemq.version>5.13.3</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<aspectj.version>1.8.5</aspectj.version>
 		<atomikos.version>3.9.3</atomikos.version>
@@ -73,7 +73,7 @@
 		<h2.version>1.4.185</h2.version>
 		<hamcrest.version>1.3</hamcrest.version>
 		<hazelcast.version>3.4.1</hazelcast.version>
-		<hibernate.version>4.3.8.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<hibernate-entitymanager.version>${hibernate.version}</hibernate-entitymanager.version>
 		<hibernate-validator.version>5.1.3.Final</hibernate-validator.version>
 		<hikaricp.version>2.2.5</hikaricp.version>
@@ -81,7 +81,7 @@
 		<hsqldb.version>2.3.2</hsqldb.version>
 		<httpasyncclient.version>4.0.2</httpasyncclient.version>
 		<httpclient.version>4.3.6</httpclient.version>
-		<jackson.version>2.5.1</jackson.version>
+		<jackson.version>2.9.0</jackson.version>
 		<janino.version>2.6.1</janino.version>
 		<javassist.version>3.18.1-GA</javassist.version> <!-- Same as Hibernate -->
 		<javax-cache.version>1.0.0</javax-cache.version>
@@ -111,7 +111,7 @@
 		<postgresql.version>9.4-1201-jdbc41</postgresql.version>
 		<reactor.version>1.1.6.RELEASE</reactor.version>
 		<reactor-spring.version>1.1.3.RELEASE</reactor-spring.version>
-		<sendgrid.version>2.1.0</sendgrid.version>
+		<sendgrid.version>3.0.0</sendgrid.version>
 		<servlet-api.version>3.1.0</servlet-api.version>
 		<simple-json.version>1.1.1</simple-json.version>
 		<slf4j.version>1.7.11</slf4j.version>
@@ -119,7 +119,7 @@
 		<solr.version>4.10.1</solr.version>
 		<spock.version>0.7-groovy-2.0</spock.version>
 		<spring.version>4.2.0.BUILD-SNAPSHOT</spring.version>
-		<spring-amqp.version>1.4.4.RELEASE</spring-amqp.version>
+		<spring-amqp.version>2.1.0.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.1.1.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.4.BUILD-SNAPSHOT</spring-batch.version>
 		<spring-data-releasetrain.version>Fowler-RELEASE</spring-data-releasetrain.version>
@@ -141,8 +141,8 @@
 		<thymeleaf-extras-conditionalcomments.version>2.1.1.RELEASE</thymeleaf-extras-conditionalcomments.version>
 		<thymeleaf-layout-dialect.version>1.2.7</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>1.3</thymeleaf-extras-data-attribute.version>
-		<tomcat.version>8.0.21</tomcat.version>
-		<undertow.version>1.2.0.CR1</undertow.version>
+		<tomcat.version>8.0.53</tomcat.version>
+		<undertow.version>1.2.5.Final</undertow.version>
 		<velocity.version>1.7</velocity.version>
 		<velocity-tools.version>2.0</velocity-tools.version>
 		<wsdl4j.version>1.6.3</wsdl4j.version>
