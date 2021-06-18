@@ -68,19 +68,19 @@
 		<gemfire.version>7.0.2</gemfire.version>
 		<glassfish-el.version>3.0.0</glassfish-el.version>
 		<gradle.version>1.12</gradle.version>
-		<groovy.version>2.4.3</groovy.version>
+		<groovy.version>2.4.21</groovy.version>
 		<gson.version>2.3.1</gson.version>
 		<h2.version>1.4.185</h2.version>
 		<hamcrest.version>1.3</hamcrest.version>
 		<hazelcast.version>3.4.1</hazelcast.version>
 		<hibernate.version>4.3.8.Final</hibernate.version>
 		<hibernate-entitymanager.version>${hibernate.version}</hibernate-entitymanager.version>
-		<hibernate-validator.version>5.1.3.Final</hibernate-validator.version>
+		<hibernate-validator.version>6.0.19.Final</hibernate-validator.version>
 		<hikaricp.version>2.2.5</hikaricp.version>
 		<hornetq.version>2.4.5.Final</hornetq.version>
 		<hsqldb.version>2.3.2</hsqldb.version>
 		<httpasyncclient.version>4.0.2</httpasyncclient.version>
-		<httpclient.version>4.3.6</httpclient.version>
+		<httpclient.version>4.4.1</httpclient.version>
 		<jackson.version>2.5.1</jackson.version>
 		<janino.version>2.6.1</janino.version>
 		<javassist.version>3.18.1-GA</javassist.version> <!-- Same as Hibernate -->
@@ -91,7 +91,7 @@
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.6.2</jedis.version>
 		<jersey.version>2.14</jersey.version>
-		<jetty.version>9.2.9.v20150224</jetty.version>
+		<jetty.version>9.4.39.v20210325</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jmustache.version>1.10</jmustache.version>
 		<joda-time.version>2.7</joda-time.version>
@@ -99,10 +99,10 @@
 		<json-path.version>0.9.1</json-path.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.12</junit.version>
-		<liquibase.version>3.3.2</liquibase.version>
+		<liquibase.version>3.8.1</liquibase.version>
 		<log4j.version>1.2.17</log4j.version>
-		<log4j2.version>2.1</log4j2.version>
-		<logback.version>1.1.3</logback.version>
+		<log4j2.version>2.13.2</log4j2.version>
+		<logback.version>1.1.11</logback.version>
 		<mariadb.version>1.1.8</mariadb.version>
 		<mockito.version>1.10.19</mockito.version>
 		<mongodb.version>2.13.0</mongodb.version>
@@ -119,7 +119,7 @@
 		<solr.version>4.10.1</solr.version>
 		<spock.version>0.7-groovy-2.0</spock.version>
 		<spring.version>4.2.0.BUILD-SNAPSHOT</spring.version>
-		<spring-amqp.version>1.4.4.RELEASE</spring-amqp.version>
+		<spring-amqp.version>2.1.0.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.1.1.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.4.BUILD-SNAPSHOT</spring-batch.version>
 		<spring-data-releasetrain.version>Fowler-RELEASE</spring-data-releasetrain.version>
@@ -130,19 +130,19 @@
 		<spring-plugin.version>1.1.0.RELEASE</spring-plugin.version>
 		<spring-security.version>4.0.0.RELEASE</spring-security.version>
 		<spring-security-jwt.version>1.0.3.RELEASE</spring-security-jwt.version>
-		<spring-social.version>1.1.0.RELEASE</spring-social.version>
+		<spring-social.version>1.1.3.RELEASE</spring-social.version>
 		<spring-social-facebook.version>1.1.1.RELEASE</spring-social-facebook.version>
 		<spring-social-linkedin.version>1.0.1.RELEASE</spring-social-linkedin.version>
 		<spring-social-twitter.version>1.1.0.RELEASE</spring-social-twitter.version>
 		<spring-ws.version>2.2.1.RELEASE</spring-ws.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
-		<thymeleaf.version>2.1.4.RELEASE</thymeleaf.version>
+		<thymeleaf.version>3.0.0.RELEASE</thymeleaf.version>
 		<thymeleaf-extras-springsecurity4.version>2.1.2.RELEASE</thymeleaf-extras-springsecurity4.version>
 		<thymeleaf-extras-conditionalcomments.version>2.1.1.RELEASE</thymeleaf-extras-conditionalcomments.version>
 		<thymeleaf-layout-dialect.version>1.2.7</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>1.3</thymeleaf-extras-data-attribute.version>
-		<tomcat.version>8.0.21</tomcat.version>
-		<undertow.version>1.2.0.CR1</undertow.version>
+		<tomcat.version>8.0.53</tomcat.version>
+		<undertow.version>2.2.0.Final</undertow.version>
 		<velocity.version>1.7</velocity.version>
 		<velocity-tools.version>2.0</velocity-tools.version>
 		<wsdl4j.version>1.6.3</wsdl4j.version>
