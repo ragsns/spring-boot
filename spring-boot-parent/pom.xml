@@ -20,10 +20,10 @@
 		<main.basedir>..</main.basedir>
 		<java.version>1.6</java.version>
 		<aether.version>0.9.1.v20140329</aether.version>
-		<json.version>20140107</json.version>
+		<json.version>20180130</json.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<json.version>20140107</json.version>
+		<json.version>20180130</json.version>
 		<maven.version>3.1.1</maven.version>
 	</properties>
 	<prerequisites>
@@ -328,7 +328,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -347,7 +347,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -366,7 +366,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -387,7 +387,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -648,8 +648,8 @@
 										<requireJavaVersion>
 											<version>(1.7,1.8)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
@@ -677,8 +677,8 @@
 										<requireJavaVersion>
 											<version>(1.7,1.8)</version>
 										</requireJavaVersion>
-										<requireReleaseDeps />
-										<requireReleaseVersion />
+										<requireReleaseDeps/>
+										<requireReleaseVersion/>
 									</rules>
 									<fail>true</fail>
 								</configuration>
