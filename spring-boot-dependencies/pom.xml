@@ -118,7 +118,7 @@
 		<snakeyaml.version>1.14</snakeyaml.version>
 		<solr.version>4.10.1</solr.version>
 		<spock.version>0.7-groovy-2.0</spock.version>
-		<spring.version>4.2.0.BUILD-SNAPSHOT</spring.version>
+		<spring.version>6.2.11</spring.version>
 		<spring-amqp.version>1.4.4.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.1.1.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.4.BUILD-SNAPSHOT</spring-batch.version>
@@ -156,13 +156,13 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
-				<version>1.3.0.BUILD-SNAPSHOT</version>
+				<version>3.4.10</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
 				<type>test-jar</type>
-				<version>1.3.0.BUILD-SNAPSHOT</version>
+				<version>3.4.10</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
